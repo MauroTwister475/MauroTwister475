@@ -1,4 +1,4 @@
-# 👋 Olá, sou o @MauroTwister475
+# 👋 Olá, sou o @Mauro Twister 
 - 👀 No momento  estou focado no desenvolvimento web, nomeadamente no universo JavaScript.
 - 🔭 Atualmente estou procurando um emprego como desenvolvedor front-end.
 - 👯 Estou colaborando com o meu time de desenvolvimento (SmadCode) em muitos projectos...
