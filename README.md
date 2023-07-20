@@ -1,11 +1,12 @@
-- 👋 Olá, sou o @MauroTwister475
-- 👀 No momento  estou focado no desenvolvimento web, nomeadamente no universo JavaScript...
-- 💞️ Estou colaborando com o meu time de desenvolvimento (SmadCode) em muitos projectos...
-- 📫 Podes entrar em contacto comigo apartir das inhas midías socias abaixo ...
+# 👋 Olá, sou o @MauroTwister475
+- 👀 No momento  estou focado no desenvolvimento web, nomeadamente no universo JavaScript.
+- 🔭 Atualmente estou procurando um emprego como desenvolvedor front-end.
+- 👯 Estou colaborando com o meu time de desenvolvimento (SmadCode) em muitos projectos...
+- 📫 Podes entrar em contacto comigo apartir das minhas midías socias abaixo.
 
 ## Ferramentas e Tecnologias
 
-  <div style="display: flex; gap: 4px">
+  <div style="display: flex; gap: 4px; margin-top: 30px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
@@ -24,13 +25,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50"/>
  </div>
 
 ## Contactos
 <div>
-  <a href = "mailto:contato@maurotwister475@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/mauro-dinis-00475526a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href = "mailto:contato@maurotwister475@gmail.com">
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/mauro-dinis-00475526a/" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>   
 </div>
 
 ## Minhas Estatísticas
