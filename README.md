@@ -15,7 +15,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MauroTwister475&bg_color=000000&color=697a98&line=19335a&point=4675c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <div align="center" style="display: inline_block"><br>
-    <strong style="display: block;">MY SKILLS</strong>
+    <p>MY SKILLS</p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> 
@@ -29,7 +29,7 @@
   </div>
     <hr/>
   <div style="display: flex; gap: 4px; align-items: center;">
-    <strong style="display: block;">I´M LEARNING</strong>
+    <p>I´M LEARNING</p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>      
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/> 
   </div> 
