@@ -10,11 +10,12 @@
 <div align="center">
   <img align="center" width="500px" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=MauroTwister475&theme=dark&background=0d1117&hide_border=false&border=19335A"/>
 <div/>
+<br><br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MauroTwister475&bg_color=000000&color=697a98&line=19335a&point=4675c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <div align="center" style="display: inline_block"><br>
-    <p>MY SKILLS</p>
+    <strong>MY SKILLS</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> 
@@ -28,7 +29,7 @@
   </div>
     <hr/>
   <div style="display: flex; gap: 4px; align-items: center;">
-    <p>I´M LEARNING</p>
+    <strong>I´M LEARNING</strong>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>      
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/> 
   </div> 
@@ -47,7 +48,9 @@
 
   <div align="center">
     <br><p align="centre"><b>VISITORS COUNT</b></p>  
-      <p align="center"><img align="center" src="https://profile-counter.glitch.me/{afonsodasilva1}/count.svg" /></p> 
+      <p align="center">
+        <img align="center" src="https://profile-counter.glitch.me/{MauroTwister475}/count.svg" />
+      </p> 
     <br>
   </div>
 
