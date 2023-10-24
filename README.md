@@ -1,5 +1,5 @@
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19335A&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19335A&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=697A89&size=35&center=true&vCenter=true&width=1000&lines=HELLO😊👋🏾,+My+name+is+Mauro+Dinis+Raimundo;I'm+19+years+old;I'm+from+Angola;I'm+a+Front-End+Developer🧑🏾‍💻;Never+Stop+Learning!;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -23,6 +23,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
@@ -31,8 +32,8 @@
     <hr/>
   <div style="display: flex; gap: 4px; align-items: center;">
     <p>I´M LEARNING</p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>      
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/> 
   </div> 
     <hr/>
   <div align="center"> 
@@ -46,7 +47,6 @@
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
     </a> 
   </div>
-
   <div align="center">
     <br><p align="centre"><b>VISITORS COUNT</b></p>  
       <p align="center">
@@ -56,4 +56,6 @@
   </div>
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19335A&height=120&section=footer"/>
+
+
 
