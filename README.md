@@ -18,28 +18,25 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MauroTwister475&bg_color=000000&color=697a98&line=19335a&point=4675c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  <div align="center" style="display: inline_block"><br>
+  <div align="center" style="display: flex; align-items: center; justify-content: center;"><br>
     <p>MY SKILLS</p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/>   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>   
+    <img src="https://storage.googleapis.com/star-lab/novo-site/formacoes/react/react-icon.svg" width="60"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60"/>
+    <img src="https://storage.googleapis.com/star-lab/novo-site/formacoes/react-native/native-icon.svg" width="60"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60"/>
+    <img src="https://storage.googleapis.com/star-lab/novo-site/formacoes/nodejs/node-icon.svg" width="60"/> 
   </div> 
     <hr/>
   <div align="center"> 
     <p>MY CONTACTS</p>
-    <a href="https://www.instagram.com/maurodinisraimundo/" target="_blank">
+    <a href="https://www.instagram.com/mauro_twister/" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
     <a href = "mailto:maurotwister475@gmail.com"> 
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
-    <a href="https://www.linkedin.com/in/mauro-dinis-00475526a/" target="_blank">
+    <a href="https://www.linkedin.com/in/mauro-raimundo-dinis-00475526a/" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
     </a> 
   </div>
