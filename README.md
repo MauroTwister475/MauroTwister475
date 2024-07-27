@@ -20,12 +20,12 @@
 
   <div align="center" style="display: flex; align-items: center; justify-content: center;"><br>
     <p>MY SKILLS</p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>   
-    <img src="https://storage.googleapis.com/star-lab/novo-site/formacoes/react/react-icon.svg" width="60"/> 
-    <img src="https://storage.googleapis.com/star-lab/novo-site/formacoes/react-native/native-icon.svg" width="60"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60"/>
+    <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/> 
+    <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>   
+    <img title="ReactJs" src="https://storage.googleapis.com/star-lab/novo-site/formacoes/react/react-icon.svg" width="60"/> 
+    <img title="React Native" src="https://storage.googleapis.com/star-lab/novo-site/formacoes/react-native/native-icon.svg" width="60"/> 
+    <img title="Next" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60"/>
+    <img title="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60"/>
   </div> 
     <hr/>
   <div align="center"> 
