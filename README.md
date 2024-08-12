@@ -24,6 +24,7 @@
     <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60"/>   
     <img title="ReactJs" src="https://storage.googleapis.com/star-lab/novo-site/formacoes/react/react-icon.svg" width="60"/> 
     <img title="React Native" src="https://storage.googleapis.com/star-lab/novo-site/formacoes/react-native/native-icon.svg" width="60"/> 
+    <img title="Nodejs" src="https://storage.googleapis.com/star-lab/novo-site/formacoes/nodejs/node-icon.svg" width="60"/> 
     <img title="Next" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60"/>
     <img title="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60"/>
   </div> 
